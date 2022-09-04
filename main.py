@@ -69,7 +69,7 @@ def get_ciba():
     }
     r = get(url, headers=headers)
     note_ch = r.json()["note"]
-    return note_ch, note_en
+    return note_ch
  
  
 def send_message(to_user, access_token, region_name, weather, temp, wind_dir, note_ch, note_en):
