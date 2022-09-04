@@ -16,6 +16,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 {{date.DATA}} 
 
+想你了
+
 地区：{{region.DATA}} 
 
 天气：{{weather.DATA}} 
@@ -24,13 +26,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是我们在洛阳相见的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
-
-
-{{note_en.DATA}} 
 {{note_ch.DATA}}
 
 
